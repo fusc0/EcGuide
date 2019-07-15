@@ -1,4 +1,4 @@
-# Ecguide
+# EcGuide
 # Guide System of Wonkwang University College of Engineering
 
 This system is a application to guide of Wonkwang University College of Engineering.
