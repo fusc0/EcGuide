@@ -13,4 +13,3 @@ Now, this system helps many engineering students find their way in complex build
 
 You can check this by URL address.
 http://ecguide.wku.ac.kr/Ecguide/home.php
-
